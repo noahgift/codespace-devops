@@ -9,3 +9,8 @@ This is a basic cookbook for building command-line tools for the modern era
 
 * Click CLI tool with full continuous integration
 * Docker CLI 
+
+
+## Additional Resources
+
+* [Codespace Shell Command History](https://gist.github.com/noahgift/25cbeba2027e90396c650232a7f6bf60)
